@@ -9,4 +9,4 @@ Aplikasi jurnal berbasis mobile yang dirancang menggunakan Flutter untuk memenuh
 5. Putri Hadiyani
    
 ## Teknologi yang Digunakan
-* **Frontend** : Flutter & Dart
+**Frontend** : Flutter & Dart
