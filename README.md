@@ -1,5 +1,5 @@
 # Aplikasi-ReflectMe-Semester 3
-Aplikasi jurnal berbasis mobile yang dirancang menggunakan Flutter untuk memenuhi tugas besar Ujian Akhir Semester (UAS).
+Aplikasi jurnal berbasis mobile yang dirancang menggunakan Flutter untuk memenuhi tugas Ujian Akhir Semester (UAS).
 
 ### 🤝 Anggota Kelompok:
 1. Ayu Oktafiani
